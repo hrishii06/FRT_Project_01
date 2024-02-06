@@ -1,17 +1,19 @@
-#  Future Ready Talent Projects 
-
-
 ## Project Title: The Stylish Shirts Website Deployment on Azure Portal
 
 
 ##  Problem Statement :
 The fashion industry is evolving rapidly, and consumers are increasingly turning to online platforms to explore and purchase stylish clothing. To meet the growing demand for trendy shirts, there is a need for a dedicated E-commerce website specializing in stylish shirts. The aim of this project is to create a robust and user-friendly online platform named "Stylish Shirts" that offers a seamless shopping experience for users looking to stay on top of the latest fashion trends in shirts.
 
+
+## Introduction :
+Stylish Shirts is a web page project created using HTML and CSS. The purpose of this documentation is to guide users and contributors through the setup, usage, and contribution process. The project is integrated with Azure services, including Azure Blob Storage and Azure App Service. Additionally, Azure Monitor Metrics are utilized for performance monitoring.
+
 ## Product Showcase:
 
 Develop a visually appealing and easy-to-navigate website that showcases a wide range of stylish shirts.
 
-Implement a user-friendly product catalog with clear categorization, allowing users to browse and filter products effortlessly.
+Implement a user-friendly product catalog with clear categorization, allowing users to browse and filter products 
+ effortlessly.
  
 ## User Authentication and Profiles:
 
