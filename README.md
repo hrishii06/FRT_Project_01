@@ -114,15 +114,10 @@ Azure Application Insights is an application performance management (APM) servic
 Here's an overview of Azure Application Insights:
 
 1.Monitoring and Diagnostics
-
 2.Application Performance
-
 3.User Analytics
-
 4.Dependency Tracking
-
 5.Alerting and Notifications
-
 6.Integration with Azure Services
 
 Overall, Azure Application Insights is a comprehensive APM solution that helps developers monitor, diagnose, and optimize the performance of their applications running on Azure and other environments. It provides valuable insights into application behavior, enabling organizations to deliver high-quality, reliable software to their users.
