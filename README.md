@@ -6,6 +6,7 @@ The fashion industry is evolving rapidly, and consumers are increasingly turning
 
 
 ## Introduction :
+
 Stylish Shirts is a web page project created using HTML and CSS. The purpose of this documentation is to guide users and contributors through the setup, usage, and contribution process. The project is integrated with Azure services, including Azure Blob Storage and Azure App Service. Additionally, Azure Monitor Metrics are utilized for performance monitoring.
 
 ## Product Showcase:
@@ -82,3 +83,37 @@ Comply with industry standards and regulations to guarantee the privacy and safe
 3.You can also connect to various SaaS platforms and on-premises data sources, and use Azure AI services to enhance your apps
 
 
+## (2) Azure Monitor Metrics 
+
+
+It is a feature provided by Microsoft Azure that allows you to collect and analyze telemetry data from your Azure resources. It helps you gain insights into the performance and health of your applications, services, and infrastructure within the Azure ecosystem. 
+
+Here are some key points about Azure Monitor Metrics:
+
+1. Data Collection
+2. Metrics Explorer
+3 Metric Categories
+4. Alerts
+5. Retention and Storage
+6. Application Insights Integration
+7. REST APIs
+8. Log Analytics.
+
+To start using Azure Monitor Metrics, you can navigate to the Azure portal, select the specific resource you want to monitor, and explore the metrics available for that resource. 
+
+From there, you can create dashboards, set up alerts, and customize your monitoring experience based on your specific needs.
+
+
+
+## 3. Azure Application Insights.
+
+Azure Application Insights is an application performance management (APM) service provided by Microsoft Azure. It enables developers to monitor, diagnose, and gain insights into the performance and usage of their applications.
+
+Here's an overview of Azure Application Insights:
+
+1.Monitoring and Diagnostics
+2.Application Performance
+3.User Analytics
+4.Dependency Tracking
+5.Alerting and Notifications
+6.Integration with Azure Services
