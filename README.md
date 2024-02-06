@@ -76,7 +76,8 @@ Comply with industry standards and regulations to guarantee the privacy and safe
 
 ## (1) *Azure App Services*
 
-1.  Azure App Service is a platform-as-a-service (PaaS) that allows you to build and host web applications, REST APIs, and mobile back ends in the programming language of your choice without managing infrastructure. 
+
+1. Azure App Service is a platform-as-a-service (PaaS) that allows you to build and host web applications, REST APIs, and mobile back ends in the programming language of your choice without managing infrastructure. 
 
 2.It offers auto-scaling, high availability, security, and DevOps capabilities. You can run your apps on Windows or Linux, or use containers and Kubernetes. 
 
