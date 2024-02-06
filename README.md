@@ -105,7 +105,7 @@ From there, you can create dashboards, set up alerts, and customize your monitor
 
 
 
-## 3. Azure Application Insights.
+## (3) Azure Application Insights.
 
 Azure Application Insights is an application performance management (APM) service provided by Microsoft Azure. It enables developers to monitor, diagnose, and gain insights into the performance and usage of their applications.
 
