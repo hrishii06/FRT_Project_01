@@ -134,7 +134,7 @@ Overall, Azure Application Insights is a comprehensive APM solution that helps d
 
 > Hrishikesh Gore : hrishikeshgore319@gmail.com
 
-> Shubhangi Lanke : shubhalanke06@gmail.com
+> Shubhangi Lanke : shubhangi.l@somaiya.edu
 
 
 # Contact
