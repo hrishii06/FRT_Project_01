@@ -85,6 +85,14 @@ It offers auto-scaling, high availability, security, and DevOps capabilities. Yo
 You can also connect to various SaaS platforms and on-premises data sources, and use Azure AI services to enhance your applications.
 
 
+
+<img width="1440" alt="Screenshot 2024-02-07 at 10 27 40 AM" src="https://github.com/hrishii06/FRT_Project_01/assets/155190318/a8c5925f-40da-460b-9455-a873b265916a">
+
+<img width="1440" alt="Screenshot 2024-02-07 at 10 28 08 AM" src="https://github.com/hrishii06/FRT_Project_01/assets/155190318/699619cc-e269-406f-90e0-30bb5663eac2">
+
+
+
+
 ## (2) Azure Monitor Metrics 
 
 
@@ -104,6 +112,13 @@ Here are some key points about Azure Monitor Metrics:
 To start using Azure Monitor Metrics, you can navigate to the Azure portal, select the specific resource you want to monitor, and explore the metrics available for that resource. 
 
 From there, you can create dashboards, set up alerts, and customize your monitoring experience based on your specific needs.
+
+
+<img width="1440" alt="Screenshot 2024-02-07 at 10 30 52 AM" src="https://github.com/hrishii06/FRT_Project_01/assets/155190318/cd6db5c8-aef0-4c3e-9fb2-3b34227952eb">
+
+<img width="1440" alt="Screenshot 2024-02-07 at 10 35 44 AM" src="https://github.com/hrishii06/FRT_Project_01/assets/155190318/98696fe3-2fe3-42d8-a8d9-ef2df34407b5">
+
+
 
 
 
@@ -126,6 +141,12 @@ Here's an overview of Azure Application Insights:
 6.Integration with Azure Services
 
 Overall, Azure Application Insights is a comprehensive APM solution that helps developers monitor, diagnose, and optimize the performance of their applications running on Azure and other environments. It provides valuable insights into application behavior, enabling organizations to deliver high-quality, reliable software to their users.
+
+
+<img width="1440" alt="Screenshot 2024-02-07 at 10 43 19 AM" src="https://github.com/hrishii06/FRT_Project_01/assets/155190318/93176582-1d94-4050-a9ca-12be140c38ad">
+<img width="1440" alt="Screenshot 2024-02-07 at 10 43 03 AM" src="https://github.com/hrishii06/FRT_Project_01/assets/155190318/533a9b3a-fa6d-46ca-bda6-1097706df313">
+<img width="1440" alt="Screenshot 2024-02-07 at 10 42 44 AM" src="https://github.com/hrishii06/FRT_Project_01/assets/155190318/28bed1b1-fb86-42d9-a610-0a38762f0556">
+
 
 
 
